@@ -97,6 +97,11 @@ func birthdayCakeCandles(candles []int32) int32 {
 	return t
 }
 
+func timeConversion(s string) string {
+	// Write your code here
+
+}
+
 func main() {
 	t := birthdayCakeCandles([]int32{3, 4, 2, 1})
 	fmt.Println(t)
